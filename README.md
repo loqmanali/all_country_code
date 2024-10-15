@@ -18,7 +18,7 @@ Add `country_code_picker` to your project's `pubspec.yaml` file:
 dependencies:
   country_code_picker:
     git:
-      url: https://github.com/yourusername/country_code_picker.git
+      url: https://github.com/loqmanali/country_code_picker.git
       ref: main
 ```
 

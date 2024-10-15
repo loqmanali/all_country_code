@@ -1,5 +1,5 @@
 name: country_code_picker
-description: "A new Flutter package project."
+description: "A flutter package for country code picker with search and filter functionality."
 version: 3.0.0
 homepage: https://github.com/loqmanali/country_code_picker
 
