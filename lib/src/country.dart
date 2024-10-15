@@ -2,7 +2,7 @@
 
 import 'package:flutter/foundation.dart' show kIsWeb;
 
-import '../country_code_picker.dart';
+import '../all_country_code.dart';
 
 class Country {
   final String name;

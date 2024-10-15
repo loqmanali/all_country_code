@@ -1,6 +1,6 @@
 // test/custom_country_dropdown_test.dart
 
-import 'package:country_code_picker/country_code_picker.dart';
+import 'package:all_country_code/all_country_code.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 

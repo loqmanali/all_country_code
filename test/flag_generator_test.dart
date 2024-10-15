@@ -1,6 +1,6 @@
 // test/flag_generator_test.dart
 
-import 'package:country_code_picker/src/utils/flag_generator.dart';
+import 'package:all_country_code/src/utils/flag_generator.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {

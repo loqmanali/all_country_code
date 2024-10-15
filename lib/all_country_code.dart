@@ -1,6 +1,6 @@
 // lib/country_code_picker.dart
 
-library country_code_picker;
+library all_country_code;
 
 export 'src/country.dart';
 export 'src/country_dropdown.dart';

@@ -12,13 +12,13 @@ A Flutter package that provides a customizable country code picker with flags an
 
 ## Installation
 
-Add `country_code_picker` to your project's `pubspec.yaml` file:
+Add `all_country_code` to your project's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  country_code_picker:
+  all_country_code:
     git:
-      url: https://github.com/loqmanali/country_code_picker.git
+      url: https://github.com/loqmanali/all_code_picker.git
       ref: main
 ```
 
@@ -28,7 +28,7 @@ dependencies:
 
 ``` yaml
 dependencies:
-  country_code_picker: ^1.0.0
+  all_country_code: ^1.0.0
 ```
 
 ## Then, run `flutter pub get` to install the package
@@ -38,14 +38,14 @@ dependencies:
 Import the package in your Dart file:
 
 ``` dart
-import 'package:country_code_picker/country_code_picker.dart';
+import 'package:all_country_code/all_country_code.dart';
 ```
 
 ## Use the `CustomCountryDropdown` widget within your widget tree
 
 ``` dart
 import 'package:flutter/material.dart';
-import 'package:country_code_picker/country_code_picker.dart';
+import 'package:all_country_code/all_country_code.dart';
 
 void main() {
   runApp(const MyApp());
@@ -90,7 +90,7 @@ An example app is provided in the `example` directory. To run it:
 1. Navigate to the `example` directory:
 
 ``` bash
-cd country_code_picker/example
+cd all_country_code/example
 ```
 
 2. Run the app:
@@ -99,7 +99,7 @@ cd country_code_picker/example
 flutter run
 ```
 
-This will launch the example application demonstrating the usage of the `country_code_picker` package.
+This will launch the example application demonstrating the usage of the `all_country_code` package.
 
 ## API Reference
 

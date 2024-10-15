@@ -1,7 +1,7 @@
 // test/country_test.dart
 
-import 'package:country_code_picker/src/country.dart';
-import 'package:country_code_picker/src/utils/flag_generator.dart';
+import 'package:all_country_code/src/country.dart';
+import 'package:all_country_code/src/utils/flag_generator.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter_test/flutter_test.dart';
 
